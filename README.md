@@ -2,7 +2,7 @@
 RAG Application Project
 
 
-````markdown
+
 # 🧠 DocuMind AI
 
 > An AI-powered document and data analysis workspace built with Streamlit, RAG, FAISS, Sentence Transformers, and Groq.
