@@ -97,4 +97,4 @@ git add README.md
 git commit -m "Improve project documentation"
 ````
 
-Then we'll finish the GitHub push and get your **DocuMind AI live on Streamlit Cloud**.
+
