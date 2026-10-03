@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
   <img src="https://img.shields.io/badge/RAG-AI-purple?style=for-the-badge" alt="RAG">
   <img src="https://img.shields.io/badge/Plotly-Interactive_Charts-green?style=for-the-badge&logo=plotly" alt="Plotly">
-</p>
+</p> 
 
 ---
 
