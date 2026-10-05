@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/🚀_Live_Demo-DocuMind_AI-blue?style=for-the-badge" alt="Live Demo">
   </a>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit" alt="Streamlit"> 
   <img src="https://img.shields.io/badge/RAG-AI-purple?style=for-the-badge" alt="RAG">
   <img src="https://img.shields.io/badge/Plotly-Interactive_Charts-green?style=for-the-badge&logo=plotly" alt="Plotly">
 </p> 
