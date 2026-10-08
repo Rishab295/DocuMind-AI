@@ -43,7 +43,7 @@ Supported file formats include:
 
 Instead of manually searching through documents or writing code to analyze datasets, users can upload their files and use a unified interface to:
 
-- Ask questions about documents
+- Ask questions about documents 
 - Retrieve relevant information using RAG
 - Generate AI-powered answers
 - Summarize educational material
