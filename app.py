@@ -1,7 +1,7 @@
 import io
 import html
 
-import faiss
+import faiss 
 import numpy as np
 import pandas as pd
 import plotly.express as px
