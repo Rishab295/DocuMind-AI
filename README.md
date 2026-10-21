@@ -186,7 +186,7 @@ The application can provide:
 
 DocuMind AI uses **Plotly** to generate interactive visualizations.
 
-Users can explore:
+Users can explore: 
 
 * 📊 Bar charts
 * 📈 Line charts
